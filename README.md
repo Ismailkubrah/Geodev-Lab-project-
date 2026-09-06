@@ -1,2 +1,2 @@
 # Geodev-Lab-project-
-Which area in Dakwa Abuja is prone to flooding.
+Which areas of Dakwa, Abuja are prone to flooding based on GIS-based spatial analysis?
