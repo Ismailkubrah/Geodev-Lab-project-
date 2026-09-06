@@ -18,6 +18,13 @@ Data I Need
 - Rainfall data
 - Drainage/waterway data
 
+## Data Sources
+
+1. DEM — Copernicus GLO-30: https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM
+2. Satellite Imagery — Sentinel-2: https://dataspace.copernicus.eu/data-collections/copernicus-sentinel-missions/sentinel-2
+3. Rainfall Data — CHIRPS: https://www.chc.ucsb.edu/data/chirps
+4. Boundary & Map Data — OpenStreetMap: https://www.openstreetmap.org/
+
 Methodology
 
 The project will involve collecting and preparing the required spatial datasets, defining the Dakwa study area, and processing the data in QGIS. The DEM will be used to analyse elevation, slope, and drainage characteristics. Satellite imagery will be used to derive land-use/land-cover information. Relevant flood-related factors will then be reclassified and combined using GIS overlay analysis to produce a final flood-prone area map.
